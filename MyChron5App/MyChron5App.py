@@ -26,7 +26,7 @@ def acMain(ac_version):
     ac.setTitle(appWindow, appName)
     ac.setSize(appWindow, 402, 192)
     ac.setBackgroundOpacity(appWindow, 0.5)
-    ac.setBackgroundTexture(appWindow, "apps/python/OzanTest/img.png")
+    ac.setBackgroundTexture(appWindow, "apps/python/MyChron5App/img.png")
 
     # Gear Label
     gear_label = ac.addLabel(appWindow, 'N')
